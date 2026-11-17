@@ -5,7 +5,15 @@ Os testes foram feitos de duas formas, e as duas podem ser repetidas por qualque
 1. **Testes automáticos** (`make test`): 68 verificações em [`testes/testes.c`](../testes/testes.c), compiladas com AddressSanitizer + UndefinedBehaviorSanitizer. O sanitizer acusaria vazamento de memória (`malloc` sem `free`), uso de nó já liberado e acesso fora do vetor. Resultado em 17/11/2026: **68 testes, 0 falha(s)**, sem nenhum alerta do sanitizer.
 2. **Roteiros no menu** (`make roteiros`): o programa real roda com as entradas de [`testes/roteiros/`](../testes/roteiros/) e a tela completa é gravada em [`testes/saidas/`](../testes/saidas/). Quando a entrada vem de arquivo, o programa repete o que foi "digitado", então a saída mostra pergunta e resposta.
 
-> **Para a entrega:** tirar prints do terminal rodando `make test` e o menu ao vivo (casos abaixo) e colocar em `docs/prints/`.
+**Prints** (em [`prints/`](prints/)): saída real do terminal, gerada em 17/11/2026 rodando `make test` e os roteiros, convertida em imagem. Nos prints do menu, o bloco do menu, que se repete a cada volta, foi omitido; a saída completa está em [`testes/saidas/`](../testes/saidas/).
+
+| Print | Mostra |
+|---|---|
+| [01-make-test.png](prints/01-make-test.png) | os 68 testes automáticos passando, com a tabela de comparações (Big-O na prática) |
+| [02-menu-lista-vazia.png](prints/02-menu-lista-vazia.png) | todas as opções com a lista vazia |
+| [03-menu-crud-normal.png](prints/03-menu-crud-normal.png) | carregar, listar, cadastrar, consultar, atualizar, excluir e análise |
+| [04-menu-entradas-invalidas.png](prints/04-menu-entradas-invalidas.png) | opções, IDs e textos inválidos, ID duplicado, inexistente, texto longo |
+| [05-menu-busca-ordenacao.png](prints/05-menu-busca-ordenacao.png) | pesquisa sem acento, sem resultado, Merge e Insertion Sort, lista na memória |
 
 ## 1. Casos normais
 

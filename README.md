@@ -87,4 +87,4 @@ docs/                documentação técnica, Big-O, testes e plano
 
 - [Documentação técnica](docs/documentacao.md): recorte, modelo do registro, lista encadeada e menu
 - [Análise Big-O](docs/big-o.md)
-- [Evidências de testes](docs/testes.md)
+- [Evidências de testes](docs/testes.md) · [prints](docs/prints/)
