@@ -1,0 +1,423 @@
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: abc
+  ! Entrada invalida: digite um numero inteiro.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: 99
+  ! Opcao invalida: escolha de 0 a 10.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: -1
+  ! Opcao invalida: escolha de 0 a 10.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: 
+  ! Entrada invalida: digite um numero inteiro.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: 2
+
+== Consultar por ID ==
+  ! A lista esta vazia. Cadastre ou carregue servicos primeiro.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: 9
+
+== Carregar exemplos ==
+  14 servico(s) carregado(s) de dados/servicos.txt; 0 linha(s) recusada(s) (ID repetido ou dado invalido). Total: 14.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): 3
+  ! Ja existe um servico com esse ID.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): 0
+  ! ID invalido: use um numero inteiro maior que zero.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): -7
+  ! ID invalido: use um numero inteiro maior que zero.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): abc
+  ! Entrada invalida: digite um numero inteiro.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): 30
+  Titulo: Titulo
+    1 - Transporte
+    2 - Beneficio
+    3 - Veiculo
+    4 - Calcada
+    5 - Atendimento
+  Categoria (numero): 9
+  ! Categoria invalida: escolha de 1 a 5.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): 30
+  Titulo: 
+    1 - Transporte
+    2 - Beneficio
+    3 - Veiculo
+    4 - Calcada
+    5 - Atendimento
+  Categoria (numero): 1
+  Descricao: desc
+  Requisitos/documentos (opcional): 
+  Onde pedir: local
+  Fonte (link oficial, opcional): 
+  ! Titulo, descricao e local sao obrigatorios.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): 31
+  Titulo: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX...
+  ! Texto longo demais (maximo de 126 caracteres).
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 4
+
+== Atualizar servico ==
+  ID do servico: 999
+  ! Nenhum servico com esse ID. (ID 999)
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 5
+
+== Excluir servico ==
+  ID do servico: 999
+  ! Nenhum servico com esse ID. (ID 999)
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 5
+
+== Excluir servico ==
+  ID do servico: 3
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  Confirma a exclusao? (s/n): n
+  Exclusao cancelada.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 2
+
+== Consultar por ID ==
+  ID: xyz
+  ! Entrada invalida: digite um numero inteiro.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 3
+
+== Pesquisar ==
+    1 - por titulo
+    2 - por categoria
+  Pesquisar por: 3
+  ! Opcao invalida: escolha de 1 a 2.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 3
+
+== Pesquisar ==
+    1 - por titulo
+    2 - por categoria
+  Pesquisar por: 1
+  Texto (sem precisar de acento): 
+  ! Digite algum texto para pesquisar.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 6
+
+== Ordenar e listar ==
+    1 - por titulo (A-Z)
+    2 - por categoria (e titulo)
+    3 - por ID
+  Criterio: 4
+  ! Opcao invalida: escolha de 1 a 3.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 6
+
+== Ordenar e listar ==
+    1 - por titulo (A-Z)
+    2 - por categoria (e titulo)
+    3 - por ID
+  Criterio: 1
+    1 - Merge Sort     (O(n log n))
+    2 - Insertion Sort (O(n^2))
+  Algoritmo: 9
+  ! Opcao invalida: escolha de 1 a 2.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 8
+
+== Todos os servicos (ordem atual da lista) ==
+  [  1] Transporte   Bilhete Único Especial da Pessoa com Deficiência
+  [  2] Beneficio    BPC: Benefício de Prestação Continuada para a pessoa com deficiência
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  [  4] Transporte   Passe Livre Interestadual: viagem gratuita entre estados
+  [  5] Veiculo      Isenção de IPI e IOF na compra do carro
+  [  6] Veiculo      Cartão DeFis: vaga especial de estacionamento
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [ 12] Veiculo      Renovar a CNH da pessoa com deficiência
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+  Total: 14. Use a opcao 2 para ver os detalhes de um servico.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 0
+
+Memoria liberada (0 nos na lista). Ate logo!

@@ -1,0 +1,236 @@
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: 9
+
+== Carregar exemplos ==
+  14 servico(s) carregado(s) de dados/servicos.txt; 0 linha(s) recusada(s) (ID repetido ou dado invalido). Total: 14.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 8
+
+== Todos os servicos (ordem atual da lista) ==
+  [  1] Transporte   Bilhete Único Especial da Pessoa com Deficiência
+  [  2] Beneficio    BPC: Benefício de Prestação Continuada para a pessoa com deficiência
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  [  4] Transporte   Passe Livre Interestadual: viagem gratuita entre estados
+  [  5] Veiculo      Isenção de IPI e IOF na compra do carro
+  [  6] Veiculo      Cartão DeFis: vaga especial de estacionamento
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [ 12] Veiculo      Renovar a CNH da pessoa com deficiência
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+  Total: 14. Use a opcao 2 para ver os detalhes de um servico.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 1
+
+== Cadastrar servico ==
+  ID (Enter = 15): 
+  Titulo: Rampa de acesso no posto de saude
+    1 - Transporte
+    2 - Beneficio
+    3 - Veiculo
+    4 - Calcada
+    5 - Atendimento
+  Categoria (numero): 5
+  Descricao: Pedido de rampa ou adaptacao em unidade basica de saude
+  Requisitos/documentos (opcional): Nenhum documento
+  Onde pedir: Central 156
+  Fonte (link oficial, opcional): https://www.capital.sp.gov.br/
+  Servico 15 cadastrado. Total: 15.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [15 servico(s) na lista]
+  Opcao: 2
+
+== Consultar por ID ==
+  ID: 15
+  ------------------------------------------------------------
+  ID .........: 15
+  Titulo .....: Rampa de acesso no posto de saude
+  Categoria ..: Atendimento
+  Descricao ..: Pedido de rampa ou adaptacao em unidade basica de saude
+  Requisitos .: Nenhum documento
+  Onde pedir .: Central 156
+  Fonte ......: https://www.capital.sp.gov.br/
+  ------------------------------------------------------------
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [15 servico(s) na lista]
+  Opcao: 4
+
+== Atualizar servico ==
+  ID do servico: 15
+  ------------------------------------------------------------
+  ID .........: 15
+  Titulo .....: Rampa de acesso no posto de saude
+  Categoria ..: Atendimento
+  Descricao ..: Pedido de rampa ou adaptacao em unidade basica de saude
+  Requisitos .: Nenhum documento
+  Onde pedir .: Central 156
+  Fonte ......: https://www.capital.sp.gov.br/
+  ------------------------------------------------------------
+  Titulo (Enter mantem): Rampa no posto de saude (UBS)
+    1 - Transporte
+    2 - Beneficio
+    3 - Veiculo
+    4 - Calcada
+    5 - Atendimento
+  Categoria (numero, Enter mantem): 2
+  Descricao (Enter mantem): 
+  Requisitos (Enter mantem): 
+  Onde pedir (Enter mantem): 
+  Fonte (Enter mantem): 
+  Servico 15 atualizado (o ID nao muda).
+  [ 15] Beneficio    Rampa no posto de saude (UBS)
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [15 servico(s) na lista]
+  Opcao: 2
+
+== Consultar por ID ==
+  ID: 15
+  ------------------------------------------------------------
+  ID .........: 15
+  Titulo .....: Rampa no posto de saude (UBS)
+  Categoria ..: Beneficio
+  Descricao ..: Pedido de rampa ou adaptacao em unidade basica de saude
+  Requisitos .: Nenhum documento
+  Onde pedir .: Central 156
+  Fonte ......: https://www.capital.sp.gov.br/
+  ------------------------------------------------------------
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [15 servico(s) na lista]
+  Opcao: 5
+
+== Excluir servico ==
+  ID do servico: 15
+  [ 15] Beneficio    Rampa no posto de saude (UBS)
+  Confirma a exclusao? (s/n): s
+  Servico 15 excluido. Total: 14.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 2
+
+== Consultar por ID ==
+  ID: 15
+  ! Nenhum servico com esse ID. (ID 15)
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 7
+
+== Analise ==
+  Total de servicos: 14
+  Por categoria:
+    Transporte     3  ###
+    Beneficio      1  #
+    Veiculo        3  ###
+    Calcada        3  ###
+    Atendimento    4  ####
+  Categoria com mais servicos: Atendimento (4 de 14, 29%)
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 0
+
+Memoria liberada (0 nos na lista). Ate logo!

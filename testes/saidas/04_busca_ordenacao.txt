@@ -1,0 +1,299 @@
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [0 servico(s) na lista]
+  Opcao: 9
+
+== Carregar exemplos ==
+  14 servico(s) carregado(s) de dados/servicos.txt; 0 linha(s) recusada(s) (ID repetido ou dado invalido). Total: 14.
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 3
+
+== Pesquisar ==
+    1 - por titulo
+    2 - por categoria
+  Pesquisar por: 1
+  Texto (sem precisar de acento): onibus
+  2 servico(s) encontrado(s):
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 3
+
+== Pesquisar ==
+    1 - por titulo
+    2 - por categoria
+  Pesquisar por: 1
+  Texto (sem precisar de acento): CALCADA
+  3 servico(s) encontrado(s):
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 3
+
+== Pesquisar ==
+    1 - por titulo
+    2 - por categoria
+  Pesquisar por: 2
+  Texto (sem precisar de acento): atend
+  4 servico(s) encontrado(s):
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 3
+
+== Pesquisar ==
+    1 - por titulo
+    2 - por categoria
+  Pesquisar por: 1
+  Texto (sem precisar de acento): aeroporto
+  Nenhum servico encontrado para "aeroporto".
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 6
+
+== Ordenar e listar ==
+    1 - por titulo (A-Z)
+    2 - por categoria (e titulo)
+    3 - por ID
+  Criterio: 1
+    1 - Merge Sort     (O(n log n))
+    2 - Insertion Sort (O(n^2))
+  Algoritmo: 1
+  Ordenado por titulo (A-Z) com Merge Sort: 37 comparacoes para 14 servicos.
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  [  1] Transporte   Bilhete Único Especial da Pessoa com Deficiência
+  [  2] Beneficio    BPC: Benefício de Prestação Continuada para a pessoa com deficiência
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  6] Veiculo      Cartão DeFis: vaga especial de estacionamento
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [  5] Veiculo      Isenção de IPI e IOF na compra do carro
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [  4] Transporte   Passe Livre Interestadual: viagem gratuita entre estados
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 12] Veiculo      Renovar a CNH da pessoa com deficiência
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 6
+
+== Ordenar e listar ==
+    1 - por titulo (A-Z)
+    2 - por categoria (e titulo)
+    3 - por ID
+  Criterio: 2
+    1 - Merge Sort     (O(n log n))
+    2 - Insertion Sort (O(n^2))
+  Algoritmo: 1
+  Ordenado por categoria e titulo com Merge Sort: 37 comparacoes para 14 servicos.
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [  2] Beneficio    BPC: Benefício de Prestação Continuada para a pessoa com deficiência
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  [  1] Transporte   Bilhete Único Especial da Pessoa com Deficiência
+  [  4] Transporte   Passe Livre Interestadual: viagem gratuita entre estados
+  [  6] Veiculo      Cartão DeFis: vaga especial de estacionamento
+  [  5] Veiculo      Isenção de IPI e IOF na compra do carro
+  [ 12] Veiculo      Renovar a CNH da pessoa com deficiência
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 6
+
+== Ordenar e listar ==
+    1 - por titulo (A-Z)
+    2 - por categoria (e titulo)
+    3 - por ID
+  Criterio: 3
+    1 - Merge Sort     (O(n log n))
+    2 - Insertion Sort (O(n^2))
+  Algoritmo: 2
+  Ordenado por ID com Insertion Sort: 56 comparacoes para 14 servicos.
+  [  1] Transporte   Bilhete Único Especial da Pessoa com Deficiência
+  [  2] Beneficio    BPC: Benefício de Prestação Continuada para a pessoa com deficiência
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  [  4] Transporte   Passe Livre Interestadual: viagem gratuita entre estados
+  [  5] Veiculo      Isenção de IPI e IOF na compra do carro
+  [  6] Veiculo      Cartão DeFis: vaga especial de estacionamento
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [ 12] Veiculo      Renovar a CNH da pessoa com deficiência
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 6
+
+== Ordenar e listar ==
+    1 - por titulo (A-Z)
+    2 - por categoria (e titulo)
+    3 - por ID
+  Criterio: 3
+    1 - Merge Sort     (O(n log n))
+    2 - Insertion Sort (O(n^2))
+  Algoritmo: 2
+  Ordenado por ID com Insertion Sort: 13 comparacoes para 14 servicos.
+  [  1] Transporte   Bilhete Único Especial da Pessoa com Deficiência
+  [  2] Beneficio    BPC: Benefício de Prestação Continuada para a pessoa com deficiência
+  [  3] Transporte   Atende+: transporte porta a porta gratuito da Prefeitura
+  [  4] Transporte   Passe Livre Interestadual: viagem gratuita entre estados
+  [  5] Veiculo      Isenção de IPI e IOF na compra do carro
+  [  6] Veiculo      Cartão DeFis: vaga especial de estacionamento
+  [  7] Calcada      Calçada pública quebrada: pedir conserto à Subprefeitura
+  [  8] Calcada      Calçada particular ruim ou inexistente: denunciar à Prefeitura
+  [  9] Calcada      Obstáculo na calçada: pedir fiscalização de acessibilidade
+  [ 10] Atendimento  Central 156: atendimento da Prefeitura de São Paulo
+  [ 11] Atendimento  Ouvidoria Geral do Município: reclamar quando o serviço da Prefeitura falha
+  [ 12] Veiculo      Renovar a CNH da pessoa com deficiência
+  [ 13] Atendimento  Reclamar de motorista, cobrador ou fiscal de ônibus (SPTrans)
+  [ 14] Atendimento  Ouvidoria da SPTrans: quando a reclamação do ônibus não foi resolvida
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 10
+
+== Lista encadeada na memoria ==
+  inicio -> 0x51d000000080 | fim -> 0x51d000008280 | tamanho = 14 | 2080 bytes por no
+  no  0 em 0x51d000000080  [id   1]  prox -> 0x51d000000a80
+  no  1 em 0x51d000000a80  [id   2]  prox -> 0x51d000001480
+  no  2 em 0x51d000001480  [id   3]  prox -> 0x51d000001e80
+  no  3 em 0x51d000001e80  [id   4]  prox -> 0x51d000002880
+  no  4 em 0x51d000002880  [id   5]  prox -> 0x51d000003280
+  no  5 em 0x51d000003280  [id   6]  prox -> 0x51d000003c80
+  no  6 em 0x51d000003c80  [id   7]  prox -> 0x51d000004680
+  no  7 em 0x51d000004680  [id   8]  prox -> 0x51d000005080
+  no  8 em 0x51d000005080  [id   9]  prox -> 0x51d000005a80
+  no  9 em 0x51d000005a80  [id  10]  prox -> 0x51d000006480
+  no 10 em 0x51d000006480  [id  11]  prox -> 0x51d000006e80
+  no 11 em 0x51d000006e80  [id  12]  prox -> 0x51d000007880
+  no 12 em 0x51d000007880  [id  13]  prox -> 0x51d000008280
+  no 13 em 0x51d000008280  [id  14]  prox -> (nil)
+  (prox = (nil)/0 marca o fim da lista)
+
+==============================================================
+ CITIZEN ASSIST AI - servicos para pessoas com deficiencia (SP)
+ Prototipo de estudo, nao e canal oficial. Confirme na fonte.
+==============================================================
+  1 - Cadastrar            6 - Ordenar e listar
+  2 - Consultar por ID     7 - Analise (indicadores)
+  3 - Pesquisar            8 - Listar todos
+  4 - Atualizar            9 - Carregar exemplos
+  5 - Excluir             10 - Ver a lista na memoria
+  0 - Sair
+  [14 servico(s) na lista]
+  Opcao: 0
+
+Memoria liberada (0 nos na lista). Ate logo!

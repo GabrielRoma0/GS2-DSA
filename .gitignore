@@ -1,0 +1,12 @@
+*.exe
+*.o
+/citizen
+.venv/
+__pycache__/
+.DS_Store
+citizen
+citizen_san
+citizen.exe
+testes/testes_bin
+# Enunciado do professor: material da disciplina, nao vai para o repositorio publico.
+*.pdf
