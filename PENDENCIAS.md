@@ -19,7 +19,7 @@ Na demonstração o professor pode perguntar como funciona. Ler nesta ordem:
 
 **Pronto quando:** cada um consegue explicar a remoção e o Merge Sort sem ler.
 
-## 2. [ ] Fazer a demonstração (gravar ou apresentar)
+## 2. [x] Fazer a demonstração (feito: vídeo em https://youtu.be/q3h-G37EPGs, link no README)
 
 > **Vídeo pronto, sem narração:** `video/dsa-demonstracao.mp4` (1:58), com música calma de fundo composta para o vídeo, sem direitos autorais de terceiros (há também `dsa-demonstracao-sem-som.mp4`). Mostra a execução real com textos explicativos na tela; **não precisa gravar voz**. Só assistir uma vez, subir no YouTube como não listado e colar o link no README (passos 4 e 5 abaixo). O `.mp4` não vai para o GitHub (fica só na pasta do computador).
 

@@ -9,6 +9,8 @@ Protótipo em **C** do Citizen Assist AI para a disciplina **Data Structures and
 | Gabriel Botelho Romão | 570589 |
 | Thor Ferreira Camargo | 569543 |
 
+**Vídeo de demonstração:** https://youtu.be/q3h-G37EPGs
+
 ## Recorte
 
 **Serviços e direitos para pessoas com deficiência na cidade de São Paulo** (transporte, benefícios, veículo, calçadas e canais de atendimento). É o mesmo público do nosso projeto principal da GS, o assistente **Mapiii**: os 14 serviços de exemplo em [`dados/servicos.txt`](dados/servicos.txt) foram tirados das fichas que a dupla conferiu nas fontes oficiais, e cada um traz o link de onde a informação veio.
@@ -85,6 +87,7 @@ docs/                documentação técnica, Big-O, testes e plano
 
 ## Documentação
 
+- **Vídeo de demonstração:** https://youtu.be/q3h-G37EPGs
 - [Documentação técnica](docs/documentacao.md): recorte, modelo do registro, lista encadeada e menu
 - [Análise Big-O](docs/big-o.md)
 - [Evidências de testes](docs/testes.md) · [prints](docs/prints/)
