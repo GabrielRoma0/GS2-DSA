@@ -1,6 +1,6 @@
 # GS 2026.2 · Data Structures and Algorithms (DSA) · Plano de trabalho
 
-Contribuição da disciplina ao Mapiii (Citizen Assist AI). Escrito em 17/11/2026 a partir do enunciado `GS_Citizen_Assist_AI_1CC_FEV(4).pdf` (turma 1CC-FEV, vale 10,0).
+Contribuição da disciplina ao Mapiii (Citizen Assist AI). Escrito em 17/11/2026 a partir do enunciado `GS_Citizen_Assist_AI_1CC_FEV(4).pdf` (turma 1CCR, vale 10,0).
 
 > **Regra desta pasta:** nada daqui vai para o repositório oficial (`mapiii-assistente` / `GS-2SEM-2026`) e nada é mexido lá. O Mapiii serve só de **base** (recorte, público, tom, fichas com fonte). A entrega de DSA é uma pasta/repositório **separado**.
 

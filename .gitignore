@@ -10,3 +10,5 @@ citizen.exe
 testes/testes_bin
 # Enunciado do professor: material da disciplina, nao vai para o repositorio publico.
 *.pdf
+video/*.mp4
+video/_quadros*/

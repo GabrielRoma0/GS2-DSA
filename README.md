@@ -1,6 +1,6 @@
 # Citizen Assist AI · DSA (GS 2026.2)
 
-Protótipo em **C** do Citizen Assist AI para a disciplina **Data Structures and Algorithms** (turma 1CC-FEV, Global Solution 2026.2 · CitizenTech).
+Protótipo em **C** do Citizen Assist AI para a disciplina **Data Structures and Algorithms** (turma 1CCR, Global Solution 2026.2 · CitizenTech).
 
 **Integrantes**
 

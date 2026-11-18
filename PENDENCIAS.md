@@ -21,7 +21,11 @@ Na demonstração o professor pode perguntar como funciona. Ler nesta ordem:
 
 ## 2. [ ] Fazer a demonstração (gravar ou apresentar)
 
+> **Vídeo pronto, sem narração:** `video/dsa-demonstracao.mp4` (1:58), com música calma de fundo composta para o vídeo, sem direitos autorais de terceiros (há também `dsa-demonstracao-sem-som.mp4`). Mostra a execução real com textos explicativos na tela; **não precisa gravar voz**. Só assistir uma vez, subir no YouTube como não listado e colar o link no README (passos 4 e 5 abaixo). O `.mp4` não vai para o GitHub (fica só na pasta do computador).
+
 O enunciado pede "demonstração prática" e não exige vídeo. Se a entrega for só pelo Portal, gravar é o jeito seguro de garantir esse 1,0 ponto.
+
+**Se preferirem gravar a tela vocês mesmos** (em vez de usar o vídeo pronto), ou para apresentar ao vivo:
 
 1. Na pasta do projeto, compilar: `make clean && make` (no Windows: o comando `gcc` do README).
 2. Seguir o roteiro [`video/roteiro.md`](video/roteiro.md) (cerca de 4 min, com quem fala o quê).
